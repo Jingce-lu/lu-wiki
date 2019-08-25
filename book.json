@@ -1,0 +1,50 @@
+{
+  "author": "Lu jingce <lujingce@163.com>",
+  "description": "世路如今已惯, 此心到处悠然",
+  "language": "zh-hans",
+  "gitbook": "3.2.3",
+  "keywords": [
+    "gitbook",
+    "summary"
+  ],
+  "links": {
+    "sidebar": {
+      "路小二": "https://ailjc.com/lunotes"
+    }
+  },
+  "output": null,
+  "pdf": {
+    "fontSize": 12,
+    "footerTemplate": null,
+    "headerTemplate": null,
+    "margin": {
+      "bottom": 36,
+      "left": 62,
+      "right": 62,
+      "top": 36
+    },
+    "pageNumbers": false,
+    "paperSize": "a4"
+  },
+  "plugins": [
+    "code",
+    "splitter",
+    "search-pro",
+    "-sharing",
+    "expandable-chapters"
+  ],
+  "pluginsConfig": {
+    "theme-default": {
+      "showLevel": true
+    },
+    "code": {
+      "copyButtons": true
+    },
+    "search": {
+      "maxIndexSize": 5000000
+    }
+  },
+  "styles": {
+    "website": "resource/styles/website.css"
+  }
+}
