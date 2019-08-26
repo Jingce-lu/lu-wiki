@@ -1,17 +1,12 @@
 {
-  "author": "Lu jingce <lujingce@163.com>",
-  "description": "世路如今已惯, 此心到处悠然",
+  "author": "",
+  "description": "",
   "language": "zh-hans",
   "gitbook": "3.2.3",
   "keywords": [
     "gitbook",
     "summary"
   ],
-  "links": {
-    "sidebar": {
-      "路小二": "https://ailjc.com/lunotes"
-    }
-  },
   "output": null,
   "pdf": {
     "fontSize": 12,

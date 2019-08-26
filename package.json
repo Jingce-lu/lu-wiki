@@ -3,9 +3,11 @@
   "description": "{{description}}",
   "author": "{{author}}",
   "scripts": {
+    "start": "gitbook serve",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
+    "gitbook-cli": "^2.3.2",
     "gitbook-plugin-code": "^0.1.0",
     "gitbook-plugin-notocjk": "0.0.5",
     "gitbook-plugin-search-pro": "^2.0.2",
